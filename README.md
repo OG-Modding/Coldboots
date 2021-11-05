@@ -1,2 +1,2 @@
 # Coldboots
-El primer Homebrew que hico mi compañero
+El primer Homebrew que hizo mi compañero

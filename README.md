@@ -15,7 +15,6 @@ Vídeo del `Homebrew`
   ## ★Versión 1.0
   * Ferrox Logo
   * Minecraft Logo
-  * My Little Pony
   * OG Modding Logo v1
   * OG Modding Logo v2
   * PS3XPLOIT Logo

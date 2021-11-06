@@ -12,6 +12,11 @@ Vídeo del `Homebrew`
 <details>
   <summary>◢ Que Incluye ◣ </summary>
   
+  ## ★Versión 1.1
+  * Removido el coldboot de "My Little Pony" era una broma, esperamos no haber herido los sentimientos de nadie :)
+  * Renombreado el coldboot de "Minecraft Logo"
+  * Añadido el coldboot "OG Modding Logo v3"
+  
   ## ★Versión 1.0
   * Ferrox Logo
   * Minecraft Logo
